@@ -1,0 +1,19 @@
+$cyan: #2acfcf;
+$cyan-hover: hsl(180, 66%, 80%);
+$dark-violet: hsl(257, 27%, 26%);
+$red: hsl(0, 87%, 67%);
+$gray: hsl(0, 0%, 75%);
+$grayish-violet: hsl(257, 7%, 63%);
+$very-dark-blue: hsl(255, 11%, 22%);
+$very-dark-violet: hsl(260, 8%, 14%);
+
+$cyan-filter: invert(25%) sepia(100%) saturate(386%) hue-rotate(122deg) brightness(87%) contrast(84%);
+
+
+$shorten-padding: 30px;
+$container-paddingx: 10%;
+$box-margin: 50px;
+$top-margin-shorten: $box-margin * -1;
+
+
+$box-marginx2: $box-margin * 2;
